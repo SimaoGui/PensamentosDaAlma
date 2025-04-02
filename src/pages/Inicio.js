@@ -1,8 +1,14 @@
-import React, { useEffect } from "react";
-import "../styles/inicio.scss";
+import React, { useEffect, useState } from "react";
+import "../styles/global.scss";
+import { useNavigate } from "react-router-dom";
+import ScrollReveal from "scrollreveal";
 
 const InicioPage = () => {
+  const navigate = useNavigate();
+
   useEffect(() => {
+    ScrollReveal().reveal(".wrapper", { duration: 1000, origin: "top", distance: "30px", easing: "ease-in-out"});
+
     const animatePetals = () => {
       const petalsContainer = document.createElement('div');
       petalsContainer.id = 'petals-container';
@@ -53,12 +59,16 @@ const InicioPage = () => {
     };
   }, []);
 
+  const handleCriar = () => {
+    navigate("/criar");
+  }
+
   return (
     <div className="bodyDiv">
       <div className="wrapper">
         <h2>Pensamentos da Alma</h2>
         <h3>Empodere sua mente através de magníficas reflexões</h3>
-        <button id="btn">Criar Reflexões</button>
+        <button onClick={handleCriar} id="btn">Criar Reflexões</button>
       </div>
     </div>
   );
