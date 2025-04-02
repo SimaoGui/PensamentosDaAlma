@@ -2,13 +2,14 @@
   "name": "05-pensamentos-da-alma",
   "version": "1.0.0",
   "main": "index.js",
+  "homepage": "https://simaogui.github.io/05-pensamentos-da-alma",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b gh-pages -d build"
   },
   "type": "module",
   "keywords": [],
@@ -16,6 +17,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.4.1",

@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/05-pensamentos-da-alma/static/css/main.0a5a6ec0.css",
+    "main.js": "/05-pensamentos-da-alma/static/js/main.da1a616c.js",
+    "static/media/SakuraBloom.jpg": "/05-pensamentos-da-alma/static/media/SakuraBloom.3accf0cd382157a714f8.jpg",
+    "index.html": "/05-pensamentos-da-alma/index.html",
+    "main.0a5a6ec0.css.map": "/05-pensamentos-da-alma/static/css/main.0a5a6ec0.css.map",
+    "main.da1a616c.js.map": "/05-pensamentos-da-alma/static/js/main.da1a616c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a5a6ec0.css",
+    "static/js/main.da1a616c.js"
+  ]
+}
