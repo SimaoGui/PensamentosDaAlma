@@ -2,7 +2,7 @@
   "name": "05-pensamentos-da-alma",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://simaogui.github.io/05-pensamentos-da-alma",
+  "homepage": "https://simaogui.github.io/PensamentosDaAlma",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

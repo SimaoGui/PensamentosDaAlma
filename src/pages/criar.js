@@ -91,7 +91,7 @@ const handleSubmit = async (e) => {
         },
         body: JSON.stringify({
           model: "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
-          messages: [{ role: "user", content: `Crie uma frase/reflexão bem curta, inspiradora e de explodir a mente sobre ${palavraChave}.` }],
+          messages: [{ role: "user", content: `Crie uma frase/reflexão bem curta, inspiradora e de explodir a mente sobre ${palavraChave} deixe as frases com teor bíblico.` }],
           max_tokens: 150,
           temperature: 0.7,
           stream: false,
