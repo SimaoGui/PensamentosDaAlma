@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PensamentosDaAlma/static/css/main.e5cd90e2.css",
-    "main.js": "/PensamentosDaAlma/static/js/main.7479dead.js",
+    "main.js": "/PensamentosDaAlma/static/js/main.b148bcec.js",
     "static/media/SakuraBloom.jpg": "/PensamentosDaAlma/static/media/SakuraBloom.3accf0cd382157a714f8.jpg",
     "index.html": "/PensamentosDaAlma/index.html",
     "main.e5cd90e2.css.map": "/PensamentosDaAlma/static/css/main.e5cd90e2.css.map",
-    "main.7479dead.js.map": "/PensamentosDaAlma/static/js/main.7479dead.js.map"
+    "main.b148bcec.js.map": "/PensamentosDaAlma/static/js/main.b148bcec.js.map"
   },
   "entrypoints": [
     "static/css/main.e5cd90e2.css",
-    "static/js/main.7479dead.js"
+    "static/js/main.b148bcec.js"
   ]
 }
