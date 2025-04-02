@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.cfa0d743.css",
-    "main.js": "/static/js/main.da1a616c.js",
-    "static/media/SakuraBloom.jpg": "/static/media/SakuraBloom.3accf0cd382157a714f8.jpg",
-    "index.html": "/index.html",
-    "main.cfa0d743.css.map": "/static/css/main.cfa0d743.css.map",
-    "main.da1a616c.js.map": "/static/js/main.da1a616c.js.map"
+    "main.css": "/05-pensamentos-da-alma/static/css/main.0a5a6ec0.css",
+    "main.js": "/05-pensamentos-da-alma/static/js/main.da1a616c.js",
+    "static/media/SakuraBloom.jpg": "/05-pensamentos-da-alma/static/media/SakuraBloom.3accf0cd382157a714f8.jpg",
+    "index.html": "/05-pensamentos-da-alma/index.html",
+    "main.0a5a6ec0.css.map": "/05-pensamentos-da-alma/static/css/main.0a5a6ec0.css.map",
+    "main.da1a616c.js.map": "/05-pensamentos-da-alma/static/js/main.da1a616c.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfa0d743.css",
+    "static/css/main.0a5a6ec0.css",
     "static/js/main.da1a616c.js"
   ]
 }
